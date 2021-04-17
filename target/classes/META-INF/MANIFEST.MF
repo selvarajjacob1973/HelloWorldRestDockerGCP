@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: User
+Build-Jdk: 15.0.1
+Implementation-Title: hello-world-rest-api
+Implementation-Version: 0.0.4-SNAPSHOT
+Implementation-Vendor-Id: com.in28minutes.rest.webservices
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/01-hello-world-rest-api
+Created-By: Maven Integration for Eclipse
+
