@@ -1,7 +1,7 @@
 # Hello World Rest API
 
 ### Running the Application
-GCP GKE Cluster and deploy this Java Application.
+Test branch Java Application.
 
 - http://localhost:8080/hello-world
 
